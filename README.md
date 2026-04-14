@@ -3,15 +3,18 @@
 
 📌 Objetivo
 Este projeto visa entregar um Dash eficiente a partir de uma base de clientes e compras, realizar uma tomada de decisão importante com dados de produção, criação de fluxograma, gráfico e cálculos e analisar os dados de estoque.
+___
 
 📈 Acesso ao Projeto
 🚀 Visualizar Dashboard Interativo
 📄 Base Excel de Gestão Completa
 📄 Base Excel de Estoque
+___
 🛠️ Tecnologias
 Power BI (DAX, Power Query)
 Excel
-GitHub (para controle de versão)
+GitHub (para controle de versão) 
+___
 💡 Insights Principais Dash Bi & Gestão Completa
 Faturamento: Aumento de 200% em relação ao mês anterior.
 Faixa etária com maior nº de clientes: 33, 48, 51, 69, 80 e 83 anos. Sendo 48 com o maior nº de clientes: 410.
